@@ -11,6 +11,7 @@ namespace WebApplication1
 {
     public class Program
     {
+        public int edad { get; set; }
         /// <summary>
         /// ///
         /// </summary>
