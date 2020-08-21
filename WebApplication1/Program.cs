@@ -12,6 +12,8 @@ namespace WebApplication1
     public class Program
     {
         public int edad { get; set; }
+        public string nombre { get; set; }
+
         /// <summary>
         /// ///
         /// </summary>
